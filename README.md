@@ -30,7 +30,7 @@
 |---|---|---|
 | [**Automatización de búsqueda laboral**](https://github.com/hpdiaz2000-ux/n8n-postulaciones-powerbi) | Lee los correos de postulación y rechazo, los registra sin duplicados y los muestra en un tablero para decidir dónde enfocar la búsqueda. | n8n · JavaScript · Google Sheets · Power BI |
 | [**Modelo predictivo de regresión**](https://github.com/hpdiaz2000-ux/Regresion-Lineal) | Pipeline completo: preprocesamiento, validación train/test con R² y ajuste de hiperparámetros en 3 modelos. | Python · Scikit-learn · Pandas |
-| [**Series de tiempo**](https://github.com/hpdiaz2000-ux/Series-de-Tiempo) | Análisis de series de tiempo con Python. | Python · Jupyter |
+| [**Pronóstico de ventas**](https://github.com/hpdiaz2000-ux/Series-de-Tiempo) | Pronóstico de ventas de una distribuidora de insumos agrícolas: comparé 5 modelos y Holt-Winters ganó con 2,84% de error (MAPE), con backtesting y recomendación de negocio. | Python · statsmodels · LightGBM · Plotly |
 | [**Tableros Power BI**](https://hectordiazportafolio-rty472i.gamma.site/) | Ventas y tendencias, indicadores financieros y monitoreo de tickets de soporte TI. | Power BI · DAX · Power Query |
 
 ---
