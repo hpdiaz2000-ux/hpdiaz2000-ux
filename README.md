@@ -1,82 +1,73 @@
-<!-- Encabezado con saludo -->
-
-<h1 align="center">👋 Hola, soy <strong>Hector Diaz</strong></h1>
-<h3 align="center">Científico/a de Datos | Machine Learning | Analítica | Python Lover 🐍</h3>
+<h1 align="center">Hola, soy Héctor Díaz 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-%F0%9F%8E%93-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-%F0%9F%92%BB-yellow?style=for-the-badge">
+  <b>IT Business Partner · Business Intelligence · Automatización · Ciencia de Datos</b><br>
+  Convierto datos y procesos en decisiones: desde el dato crudo hasta el indicador que usa la gerencia.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hector-diaz-salgado-84aa0631"><img src="https://img.shields.io/badge/LinkedIn-Héctor%20Díaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://hectordiazportafolio-rty472i.gamma.site/"><img src="https://img.shields.io/badge/Portafolio-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+  <img src="https://img.shields.io/badge/Santiago-Chile-1F3A68?style=for-the-badge">
 </p>
 
 ---
 
-<!-- Acerca de mí -->
+## Sobre mí
 
-## 🌱 Sobre mí
-
-Soy un/a profesional apasionado/a por **la ciencia de datos, la experimentación y los modelos predictivos**.  
-Me encanta transformar datos en decisiones, crear visualizaciones claras y construir modelos interpretables.
-
-🔭 Actualmente estoy trabajando en:  
-- 🚀 Proyectos de Machine Learning  
-- 📊 Análisis exploratorios (EDA)  
-- 📚 Enseñando / aprendiendo mejores prácticas de Git y GitHub  
-
-🌱 Estoy aprendiendo:  
-- Modelos avanzados (XGBoost, LightGBM)  
-- Deep Learning con PyTorch  
-- Buenas prácticas de MLOps  
+- **Más de 20 años en TI** en una multinacional del sector salud, con alcance en **Chile, Perú y Argentina**.
+- **IT Business Partner (2022–2025):** puente entre el negocio y tecnología, coordinando equipos técnicos, proveedores y áreas de negocio en tres países.
+- Diseñé un **tablero de gestión que redujo en 50% la carga operativa** del equipo gerencial y migré los tableros Power BI a un modelo corporativo en **Azure**.
+- Lideré al equipo de soporte externo para **más de 350 usuarios**, con control de SLA y análisis de fallas recurrentes.
+- Lideré la **implementación tecnológica de un Centro de Distribución** (WMS, operador logístico 3PL, integraciones).
+- Formación reciente en **Business Intelligence con Power BI** y **Python para Ciencia de Datos y Machine Learning**.
 
 ---
 
-<!-- Stack tecnológico -->
+## Proyectos destacados
 
-## 🛠️ Tecnologías y Herramientas
-
-### 👨‍💻 Lenguajes
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white&style=for-the-badge">
-</p>
-
-### 📚 Ciencia de Datos
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge">
-</p>
-
-### 🛠️ Control de versiones y ecosistema
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge">
-</p>
+| Proyecto | Qué hace | Tecnologías |
+|---|---|---|
+| [**Automatización de búsqueda laboral**](https://github.com/hpdiaz2000-ux/n8n-postulaciones-powerbi) | Lee los correos de postulación y rechazo, los registra sin duplicados y los muestra en un tablero para decidir dónde enfocar la búsqueda. | n8n · JavaScript · Google Sheets · Power BI |
+| [**Modelo predictivo de regresión**](https://github.com/hpdiaz2000-ux/Regresion-Lineal) | Pipeline completo: preprocesamiento, validación train/test con R² y ajuste de hiperparámetros en 3 modelos. | Python · Scikit-learn · Pandas |
+| [**Series de tiempo**](https://github.com/hpdiaz2000-ux/Series-de-Tiempo) | Análisis de series de tiempo con Python. | Python · Jupyter |
+| [**Tableros Power BI**](https://hectordiazportafolio-rty472i.gamma.site/) | Ventas y tendencias, indicadores financieros y monitoreo de tickets de soporte TI. | Power BI · DAX · Power Query |
 
 ---
 
-<!-- Proyectos destacados -->
+## Herramientas
 
-## 🚀 Proyectos Destacados
+**BI y datos**<br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/DAX-1F3A68?style=flat-square">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
 
-### 🩺 **Clasificación de Cáncer de Mama**
-🔗 https://github.com/TU_USUARIO/proyecto-clasificacion-cancer-mama  
-Modelo predictivo usado en talleres de GitHub para Ciencia de Datos.
+**Programación y ciencia de datos**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 
-### 📈 **Análisis Exploratorio de Ventas**
-🔗 https://github.com/TU_USUARIO/analisis-ventas  
-Dashboard + EDA con Python y Power BI.
+**Automatización y nube**<br>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 
-### 🤖 **Modelo de Predicción de Abandono de Clientes**
-🔗 https://github.com/TU_USUARIO/churn-model  
-Modelo ML con interpretación de características.
+**Gestión**<br>
+<img src="https://img.shields.io/badge/ITIL-Gestión%20de%20servicios-5C2D91?style=flat-square">
+<img src="https://img.shields.io/badge/Scrum%20%2F%20Kanban-Proyectos-0052CC?style=flat-square">
+<img src="https://img.shields.io/badge/SLA-Proveedores-1F3A68?style=flat-square">
 
 ---
 
-<!-- Contacto -->
+## En qué estoy ahora
 
-## 📫 Conecta conmigo
+- 🔨 Un proyecto de **ciencia de datos aplicado a minería**: predicción de calidad en una planta de flotación.
+- 📚 Preparando la certificación **PSM I (Scrum)**.
+- 💼 Disponible para roles de **IT Business Partner, BI y Datos, Gestión de servicios TI y Proyectos TI**.
+
+<p align="center"><i>¿Conversamos? Escríbeme por <a href="https://www.linkedin.com/in/hector-diaz-salgado-84aa0631">LinkedIn</a>.</i></p>
